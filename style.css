@@ -1,10 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-style:normal;
-}
-
 img {
     width: 100%;
 }
@@ -210,7 +203,7 @@ main {
 }
 
 .pc-br {
-    display: block;
+  display: block;
 }
 
 .about-text-emp {
